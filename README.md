@@ -14,7 +14,7 @@ This plugin does not provide any functionality by itself.
 
 ## Documentation
 
-See [online documentation](https://docs.mutms.org/programs/) for more information.
+See [online documentation](https://docs.mutms.org/muprog/) for more information.
 
 ---
 
